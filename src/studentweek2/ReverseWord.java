@@ -1,9 +1,8 @@
 
 package studentweek2;
 
-/**
- *
- * @author moeissa
+/*
+ * @author moeissa wqeqweqwe
  */
 public class ReverseWord {
     public static void main (String[] args){
