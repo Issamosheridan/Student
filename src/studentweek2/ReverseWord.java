@@ -4,8 +4,6 @@ package studentweek2;
 /*
  * @author moeissa wqeqweqwe
  */
-
-/*another comment*/
 public class ReverseWord {
     public static void main (String[] args){
         char[] myArray= new char[7];
