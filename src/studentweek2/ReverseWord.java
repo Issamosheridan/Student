@@ -5,6 +5,7 @@ package studentweek2;
  * @author moeissa wqeqweqwe
  */
 public class ReverseWord {
+    //ADDED COMMENT FOR POLL
     public static void main (String[] args){
         char[] myArray= new char[7];
         myArray[0]='s';
