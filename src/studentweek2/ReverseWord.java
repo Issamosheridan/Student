@@ -14,7 +14,7 @@ public class ReverseWord {
             myArray[4]='t';
              myArray[5]='n';
              myArray[6]='t';
-             
+             //added commit for fetch
              for(int i = 0; i > myArray.length;i--){
                  System.out.println(myArray[i]);
              }
